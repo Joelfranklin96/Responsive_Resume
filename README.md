@@ -1,3 +1,3 @@
 # Resume
 
-Front end development using HTML and CSS
+Front end development of a Responsive Resume from scratch using only HTML and CSS
